@@ -16,6 +16,10 @@ textarea {
     height: 90vh;
     width: 80%;
 }
+#title{
+    height: 10px;
+    width:  20px;
+}
 
 .main {
     padding: 10px;
